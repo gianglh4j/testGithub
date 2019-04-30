@@ -1,1 +1,1 @@
-console.log("sua dong console");
+console.log("");
