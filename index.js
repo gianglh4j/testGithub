@@ -1,4 +1,5 @@
 
+
 console.log("dsadsa");
 ai do da sua dong nay
 
@@ -12,5 +13,8 @@ int j;
 console.log("sua dole");
 
 fasfsa
+
+còn j đâu em
+
 
 jflksajfslajfsla
